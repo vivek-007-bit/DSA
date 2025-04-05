@@ -1,5 +1,5 @@
 /*This program illustrates the usage of array as an Abstract Data Type
-  as well how to update the value of a particular index*/
+  as well how to update the value of a particular given index*/
 
 #include <stdio.h>
 #include <stdlib.h>
