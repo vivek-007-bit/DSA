@@ -1,4 +1,4 @@
-// this program only works for distinct elements
+// this program illustrates the usage of linear search but it only works for distinct elements
 #include <stdio.h>
 
 int linearSearch(int arr[], int size)
